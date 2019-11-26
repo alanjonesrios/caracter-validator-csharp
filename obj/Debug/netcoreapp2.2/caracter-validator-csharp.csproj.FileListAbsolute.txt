@@ -1,0 +1,11 @@
+C:\Users\0127617\Documents\GitHub\caracter-validator-csharp\bin\Debug\netcoreapp2.2\caracter-validator-csharp.deps.json
+C:\Users\0127617\Documents\GitHub\caracter-validator-csharp\bin\Debug\netcoreapp2.2\caracter-validator-csharp.runtimeconfig.json
+C:\Users\0127617\Documents\GitHub\caracter-validator-csharp\bin\Debug\netcoreapp2.2\caracter-validator-csharp.runtimeconfig.dev.json
+C:\Users\0127617\Documents\GitHub\caracter-validator-csharp\bin\Debug\netcoreapp2.2\caracter-validator-csharp.dll
+C:\Users\0127617\Documents\GitHub\caracter-validator-csharp\bin\Debug\netcoreapp2.2\caracter-validator-csharp.pdb
+C:\Users\0127617\Documents\GitHub\caracter-validator-csharp\obj\Debug\netcoreapp2.2\caracter-validator-csharp.csprojAssemblyReference.cache
+C:\Users\0127617\Documents\GitHub\caracter-validator-csharp\obj\Debug\netcoreapp2.2\caracter-validator-csharp.csproj.CoreCompileInputs.cache
+C:\Users\0127617\Documents\GitHub\caracter-validator-csharp\obj\Debug\netcoreapp2.2\caracter-validator-csharp.AssemblyInfoInputs.cache
+C:\Users\0127617\Documents\GitHub\caracter-validator-csharp\obj\Debug\netcoreapp2.2\caracter-validator-csharp.AssemblyInfo.cs
+C:\Users\0127617\Documents\GitHub\caracter-validator-csharp\obj\Debug\netcoreapp2.2\caracter-validator-csharp.dll
+C:\Users\0127617\Documents\GitHub\caracter-validator-csharp\obj\Debug\netcoreapp2.2\caracter-validator-csharp.pdb
